@@ -4,13 +4,12 @@
 project:
 
     title:  
-        Learning-Analytics-for-PLAE - Provide trends and patterns in the data acquired by augmented
-        reality systems that monitor children's movement and interaction. 
+        Learning-Analytics-for-PLAE - Provide trends and patterns in the data acquired by augmented reality systems that monitor children's movement and interaction. 
     
     author:
         - Kumar, Saurabh    
     
-    abstract: 
+    abstract: >
         Augmented reality emerged as a tool by which scientists attempt to develop many techniques to be used
         by educators. It provides many engaging learning moments and makes learning very attractive. The 
         significance of exploring the application of augmented reality in learning is because research shows
