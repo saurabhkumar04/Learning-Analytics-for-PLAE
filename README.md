@@ -11,13 +11,13 @@ project:
         - Kumar, Saurabh    
     
     abstract: >
-        In this project, we examine how children understand different science notions via some actions 
+        In this project, I examine how children understand different science notions via some actions 
         which are tracked via the OpenPTrack system. To this end, the camera tracks the movement of kids
         in the space. These recorded activities were integrated into a computer emulation. The teacher 
         changes the background and other settings to inspire kids to play differently in the space. The 
         goal is to explore how and why augmented reality can generate modern horizons for learning. 
         
-        For this purpose, we are interested in finding patterns of children movements via conducting 
+        For this purpose, I am interested in finding patterns of children movements via conducting 
         exploratory visual analysis of the students’ motion data to gain an understanding on how the
         technology can help kids.
     
