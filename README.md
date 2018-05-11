@@ -26,6 +26,6 @@ project:
     author:
         - Kumar, Saurabh  
 
-    url: https://github.com/bigdata-i523/hid212/project/report.tex
+    url: https://github.com/saurabhkumar04/Learning-Analytics-for-PLAE/blob/master/viz_pipeline.ipynb
     type: project
     chapter: Health
