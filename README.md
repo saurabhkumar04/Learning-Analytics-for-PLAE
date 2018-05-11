@@ -20,7 +20,8 @@ project:
         the technology can help kids. 
 
     key question:
-        Can embodied play activities help students learn scientific concepts like movement of particles in different settings?    
+        Can embodied play activities help students learn scientific concepts like movement of particles in different
+        settings?    
         
     author:
         - Kumar, Saurabh  
