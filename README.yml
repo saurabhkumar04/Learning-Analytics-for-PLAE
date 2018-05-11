@@ -1,10 +1,10 @@
----
+
 # Learning-Analytics-for-PLAE
 ---
 project:
-
-    title:  
-        <h1>Learning-Analytics-for-PLAE - Provide trends and patterns in the data acquired by augmented reality systems that monitor children's movement and interaction.</h1>
+    title: > 
+        Learning-Analytics-for-PLAE - Provide trends and patterns in the data acquired by augmented reality
+        systems that monitor children's movement and interaction.
     
     author:
         - Kumar, Saurabh    
@@ -23,8 +23,7 @@ project:
         the technology can help kids. 
 
     key question:
-        Can embodied play activities help students learn scientific concepts like movement of particles in different settings?
-    
+        Can embodied play activities help students learn scientific concepts like movement of particles in different settings    
     
     url: https://github.com/bigdata-i523/hid212/project/report.tex
     type: project
