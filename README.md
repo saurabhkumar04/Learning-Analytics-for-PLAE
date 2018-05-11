@@ -5,8 +5,6 @@ Title: >
         systems that monitor children's movement and interaction.
 ---
 project:   
-    author:
-        - Kumar, Saurabh    
     
     abstract: >
         Augmented reality emerged as a tool by which scientists attempt to develop many techniques to be used
@@ -23,7 +21,10 @@ project:
 
     key question:
         Can embodied play activities help students learn scientific concepts like movement of particles in different settings    
-    
+
+    author:
+        - Kumar, Saurabh  
+
     url: https://github.com/bigdata-i523/hid212/project/report.tex
     type: project
     chapter: Health
