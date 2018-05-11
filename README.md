@@ -1,6 +1,6 @@
 
 # Learning-Analytics-for-PLAE
-Title: > 
+Objective: > 
         Learning-Analytics-for-PLAE - Provide trends and patterns in the data acquired by augmented reality
         systems that monitor children's movement and interaction.
 ---
@@ -20,8 +20,8 @@ project:
         the technology can help kids. 
 
     key question:
-        Can embodied play activities help students learn scientific concepts like movement of particles in different settings    
-
+        Can embodied play activities help students learn scientific concepts like movement of particles in different settings?    
+        
     author:
         - Kumar, Saurabh  
 
